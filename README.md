@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello There 👋✨😍
 
-### I am [Ahmad](https://github.com/ahmadraza100)
+### I am [Ahmad Raza 🐱‍💻 ](https://github.com/ahmadraza100)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; I am React | React Native Developer.
+- 🤔 &nbsp; I am React | React Native Developer | [Youtuber (Visit)](https://www.youtube.com/techtalkswithahmad).
 - 🎈 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
 - 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
 - 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
@@ -13,14 +13,14 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | Firebase | Express
-- 🛢 &nbsp; MySQL | MongoDB
+- 💻 &nbsp; Javascript | Python | C++ 
+- 🛢  &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Thunder Client | Figma | VS Code
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ahmadraza100&show_icons=true)
-### 📍Location : [Faisalabad , Pakistan](https://www.google.com/maps/d/viewer?mid=10K9ZDPjrrBM89g9R4f9EKgN6RuI&ie=UTF8&t=m&oe=UTF8&msa=0)
+### 📍 Location : [Faisalabad , Pakistan](https://www.google.com/maps/d/viewer?mid=10K9ZDPjrrBM89g9R4f9EKgN6RuI&ie=UTF8&t=m&oe=UTF8&msa=0)
 
 
 ###📞Connect with Me
