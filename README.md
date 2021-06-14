@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Hi There
-<h1>I am [Ahmad](https://github.com/ahmadraza100)</h1>
+###Hi There
+###I am [Ahmad](https://github.com/ahmadraza100)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
