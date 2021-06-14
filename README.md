@@ -1,6 +1,6 @@
-##                                                                Hello There 👋✨😍
+###                                                               Hello There 👋✨😍
 
-###                                                     I am [Ahmad Raza 🐱‍💻 ](https://github.com/ahmadraza100)
+##                                                     I am [Ahmad Raza 👨🏻‍💻 ](https://github.com/ahmadraza100)
 
 <h4> 👨🏻‍💻 About Me </h4>
 
@@ -14,8 +14,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | Firebase | Express | Graphql 
+
 - 💻 &nbsp; C | Javascript | Typescript  | Python | C++ 
+
 - 🛢  &nbsp; MySQL | MongoDB
+
 - 🔧 &nbsp; Git | Thunder Client | Postman | Figma | VS Code
 
 
