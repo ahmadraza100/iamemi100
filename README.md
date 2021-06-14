@@ -4,10 +4,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
-- Open for project collaboration and internship opportunities. 
+- 🤔 &nbsp; I am React | React Native Developer.
+- 🎈 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+- 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
+- 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
+- 🥇 &nbsp; Open for project collaboration and internship opportunities. 
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -17,7 +19,9 @@
 - 🔧 &nbsp; Git | Thunder Client | Figma | VS Code
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ahmadraza100&show_icons=true)
+### 📍Location : [Faisalabad , Pakistan](https://www.google.com/maps/d/viewer?mid=10K9ZDPjrrBM89g9R4f9EKgN6RuI&ie=UTF8&t=m&oe=UTF8&msa=0)
+
 
 ###📞Connect with Me
 
@@ -29,4 +33,4 @@
 
 
 
- ⭐️ From [Arsh](https://github.com/[ahmadraza100])
+ ⭐️ From [Ahmad](https://github.com/[ahmadraza100])
