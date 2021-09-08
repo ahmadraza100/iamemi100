@@ -4,7 +4,7 @@
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🤔 &nbsp; I am React | React Native Developer | [Youtuber (Visit)](https://www.youtube.com/techtalkswithahmad).
+- 🤔 &nbsp; I am React | React Native Developer 
 - 🎈 &nbsp; Exploring new technologies and quick hacks. 
 - 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
 - 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
