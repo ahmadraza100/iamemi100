@@ -9,6 +9,7 @@
 - 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
 - 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
 - 🥇 &nbsp; Open for project collaboration and internship opportunities. 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Ahmad's Dev Card"/></a>
 
 
 <h3>🛠 Tech Stack</h3>
