@@ -4,23 +4,23 @@
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🤔 &nbsp; I am React | React Native Developer 
-- 🎈 &nbsp; Exploring new technologies and quick hacks. 
+- 🤔 &nbsp; I am MERN Stack Developer and Web3 Developer
+- 🎈 &nbsp; Exploring new technologies . 
 - 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
 - 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
-- 🥇 &nbsp; Open for project collaboration and internship opportunities. 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Ahmad's Dev Card"/></a>
+- 🥇 &nbsp; Open for project collaboration . 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/0d94160635b0458891ab8f453b5f33c1.png?r=u7f" width="400" alt="Ahmad's Dev Card"/></a>
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | Firebase | Express | Graphql 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | Firebase | Express | Graphql  | Nextjs
 
-- 💻 &nbsp; C | Javascript | Typescript  | Python | C++ 
+- 💻 &nbsp; C | Javascript | Typescript  | C++  | Solidity
 
-- 🛢  &nbsp; MySQL | MongoDB
+- 🛢  &nbsp; MySQL | MongoDB | IPFS
 
-- 🔧 &nbsp; Git | Thunder Client | Postman | Figma | VS Code
+- 🔧 &nbsp; Git | VS Code |Remix IDE
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ahmadraza100&show_icons=true)
