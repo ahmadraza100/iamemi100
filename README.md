@@ -4,7 +4,7 @@
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🤔 &nbsp; I am Full Stakc Blockchain Developer 
+- 🤔 &nbsp; I am Full Stack Blockchain Developer 
 - 🎈 &nbsp; Exploring new technologies . 
 - 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
 - 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
