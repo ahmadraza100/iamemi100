@@ -4,7 +4,7 @@
 
 <h4> 👨🏻‍💻 About Me </h4>
 
-- 🤔 &nbsp; I am MERN Stack Developer and Web3 Developer
+- 🤔 &nbsp; I am Full Stakc Blockchain Developer 
 - 🎈 &nbsp; Exploring new technologies . 
 - 🎓 &nbsp; Studying Informmation Technology at GC University Faisalabad, Pakistan .
 - 🌱 &nbsp; Currently Learning Other Stacks and Technologies.
@@ -14,9 +14,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | Firebase | Express | Graphql  | Nextjs
 
-- 💻 &nbsp; C | Javascript | Typescript  | C++  | Solidity
+- 🌐 &nbsp; Ethereum | Solidity | JavaScript | Node.js | ReactJS | Firebase | Express | Graphql  | Nextjs
+
+- 💻 &nbsp; C | Javascript  | C++  | Solidity
 
 - 🛢  &nbsp; MySQL | MongoDB | IPFS
 
