@@ -1,6 +1,6 @@
 ###                                                               Hello There 👋✨😍
 
-#                                                     I am [EMI 👨🏻‍💻 ](https://github.com/ahmadraza100)
+#                                                    [AM 👨🏻‍💻 ](https://github.com/iamemi100)
 
 <h4> 👨🏻‍💻 About Me </h4>
 
@@ -23,7 +23,7 @@
 - 🔧 &nbsp; Git | VS Code |Remix IDE
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ahmadraza100&show_icons=true)
-### 📍 From : [Faisalabad , Pakistan 🇵🇰](https://www.google.com/maps/d/viewer?mid=10K9ZDPjrrBM89g9R4f9EKgN6RuI&ie=UTF8&t=m&oe=UTF8&msa=0)
+![github stats](https://github-readme-stats.vercel.app/api?username=iamemi100&show_icons=true)
+
 
 
